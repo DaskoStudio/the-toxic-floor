@@ -73,3 +73,11 @@ Ce projet est conçu pour être exécuté directement dans un navigateur web.
 ---
 
 *Ce projet a été développé dans le cadre d'une Game Jam.*
+
+## 👤 Auteur
+
+Konaté Adama (@DaskoStudio) — Ynov Campus
+
+## 🧱 Structure
+
+`index.html` : entrée ; `src/` : scripts ; `assets/` : visuels et audio.
